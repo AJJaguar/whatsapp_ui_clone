@@ -334,4 +334,5 @@ class _chatTileState extends State<chatTile> {
         ],
       ),
     );
-  
+  }
+}
